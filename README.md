@@ -8,11 +8,11 @@
 
 [OBJECTIVES](#objectives)
 
-[METHODOLOGY](methodology)
+[METHODOLOGY](#methodology)
 
 [KEY FINDINGS](#key_findings)
 
-[TOOLS AND TECHNOLOGIES](tools_and_technologies)
+[TOOLS AND TECHNOLOGIES](#tools_and_technologies)
 
 [DATA VISUALIZATION](#data_visualization)
 
