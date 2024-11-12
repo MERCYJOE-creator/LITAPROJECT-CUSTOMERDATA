@@ -2,6 +2,20 @@
 
 ## PROJECT TITLE: Customer Segmentation for a Subscription Service
 
+[PROJECT OVERVIEW](#project_overview)
+
+[DATA SOURCE](#data_source)
+
+[OBJECTIVES](#objectives)
+
+[METHODOLOGY](methodology)
+
+[KEY FINDINGS](#key_findings)
+
+[TOOLS AND TECHNOLOGIES](tools_and_technologies)
+
+[DATA VISUALIZATION](#data_visualization)
+
 ## PROJECT OVERVIEW
 This project analyzes customer data to gain insights into sales trends, customer behavior, and preferences.The goal is to inform business decisions, optimize marketing strategies, and improve customer satisfaction.
 
@@ -16,13 +30,13 @@ The primary source of data used is Data Sale.csv and this is an open source data
 4. Investigate customer purchase behavior and loyalty.
 5. Visualize key findings using interactive dashboards.
 
-## Methodology:
+## METHODOLOGY:
 
 1. Data cleaning and preprocessing.
 2. Exploratory data analysis (EDA).
 3. Data visualization 
 
-## Key Findings:
+## KEY FINDINGS:
 
 - EXCEL
 - 1. Analyze customer data using pivot tables to find subscription patterns.
@@ -44,7 +58,7 @@ The primary source of data used is Data Sale.csv and this is an open source data
   1. Build a Power BI dashboard that visualizes key customer segments, cancellations, and subscription trends.
   2. Include slicers for interactive analysis.
  
-  ## Tools and Technologies:
+  ## TOOLS AND TECHNOLOGIES:
 
   - Microsoft Excel
     
